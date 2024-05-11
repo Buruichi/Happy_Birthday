@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_dirthday_text">С днем рождения пес!</string>
+    <string name="signature_text">От Буруичи</string>
+</resources>
